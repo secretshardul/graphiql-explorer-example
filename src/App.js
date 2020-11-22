@@ -36,7 +36,8 @@ function fetcher(params: Object): Object {
         });
 }
 
-const DEFAULT_QUERY = `query GetRandomQuote($offset: Int = 1) {
+const DEFAULT_QUERY = `# Endpoint: https://shakespeare-api.ap-south-1.aws.cloud.dgraph.io/graphql
+query GetRandomQuote($offset: Int = 1) {
     queryQuotation(first: 1, offset: $offset) {
         quotationText
         location

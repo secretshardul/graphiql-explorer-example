@@ -1,6 +1,6 @@
 {
     "name": "graphiql-explorer-example",
-    "homepage": "https://secretshardul.github.io/graphiql-explorer-example",
+    "homepage": "https://secretshardul.github.io/shakespeare-api",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
