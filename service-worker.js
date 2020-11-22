@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/graphiql-explorer-example/precache-manifest.dca40b56c0c53ef9d9720843aebafef7.js"
+  "/shakespeare-api/precache-manifest.dc56fa8ad4815d9f2fd36331cce8e49e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/graphiql-explorer-example/index.html", {
+workbox.routing.registerNavigationRoute("/shakespeare-api/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
