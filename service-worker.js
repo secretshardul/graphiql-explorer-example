@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/shakespeare-api/precache-manifest.dc56fa8ad4815d9f2fd36331cce8e49e.js"
+  "/shakespeare-api/precache-manifest.e625280986739eb90f20b6c5419fc438.js"
 );
 
 workbox.clientsClaim();

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ef0f4818b9cc361a520b",
+    "revision": "3bf3892effd267faa17a",
     "url": "/shakespeare-api/static/css/main.c6926984.chunk.css"
   },
   {
-    "revision": "ef0f4818b9cc361a520b",
-    "url": "/shakespeare-api/static/js/main.ef0f4818.chunk.js"
+    "revision": "3bf3892effd267faa17a",
+    "url": "/shakespeare-api/static/js/main.3bf3892e.chunk.js"
   },
   {
     "revision": "00ac7b581b3a3805f695",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/shakespeare-api/static/media/index.js.02c24280.flow"
   },
   {
-    "revision": "1139dfffbf6ef904372810d4d1806296",
+    "revision": "30f1fb4548c2fe551bedb6971367f430",
     "url": "/shakespeare-api/index.html"
   }
 ];

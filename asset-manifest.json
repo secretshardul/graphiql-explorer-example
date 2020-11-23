@@ -1,7 +1,7 @@
 {
   "main.css": "/shakespeare-api/static/css/main.c6926984.chunk.css",
-  "main.js": "/shakespeare-api/static/js/main.ef0f4818.chunk.js",
-  "main.js.map": "/shakespeare-api/static/js/main.ef0f4818.chunk.js.map",
+  "main.js": "/shakespeare-api/static/js/main.3bf3892e.chunk.js",
+  "main.js.map": "/shakespeare-api/static/js/main.3bf3892e.chunk.js.map",
   "static/css/1.f143ac0d.chunk.css": "/shakespeare-api/static/css/1.f143ac0d.chunk.css",
   "static/js/1.00ac7b58.chunk.js": "/shakespeare-api/static/js/1.00ac7b58.chunk.js",
   "static/js/1.00ac7b58.chunk.js.map": "/shakespeare-api/static/js/1.00ac7b58.chunk.js.map",
@@ -18,6 +18,6 @@
   "static/css/main.c6926984.chunk.css.map": "/shakespeare-api/static/css/main.c6926984.chunk.css.map",
   "static/css/1.f143ac0d.chunk.css.map": "/shakespeare-api/static/css/1.f143ac0d.chunk.css.map",
   "index.html": "/shakespeare-api/index.html",
-  "precache-manifest.dc56fa8ad4815d9f2fd36331cce8e49e.js": "/shakespeare-api/precache-manifest.dc56fa8ad4815d9f2fd36331cce8e49e.js",
+  "precache-manifest.e625280986739eb90f20b6c5419fc438.js": "/shakespeare-api/precache-manifest.e625280986739eb90f20b6c5419fc438.js",
   "service-worker.js": "/shakespeare-api/service-worker.js"
 }
